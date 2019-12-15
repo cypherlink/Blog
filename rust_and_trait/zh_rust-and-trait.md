@@ -1,5 +1,7 @@
 # Rust语言及其Trait
 
+结合PPT一起看, 比较容易理解. [PPT](https://github.com/rustcc/rust-slides/blob/master/20191214-DoraHacks/rust_and_trait_pub.pdf)
+
 今天我们来聊聊Rust中的Trait. 首先我们来理解一个概念: 抽象.
 
 抽象就是把复杂的东西简单化。
